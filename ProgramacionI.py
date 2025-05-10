@@ -1,1 +1,1 @@
-def __init
+put ("HOlaaa")
